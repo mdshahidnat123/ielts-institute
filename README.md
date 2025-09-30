@@ -20,5 +20,5 @@ A modern, responsive homepage for a fictional IELTS preparation institute built 
 
 1. **Clone the repository**
    ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/mdshahidnat123/ielts-institute/edit/main/README.md>
    cd ielts-institute
